@@ -86,15 +86,7 @@ Paste the URL of your repository in the Canvas input box for this assignment.
 ### Submission
 For this assignment, a server and clients communicate with each other to receive, process information in the server, and send it back to the client. The client first sets the input to be sent to the server, the server then checks for stabilization, and then sends it back to the client to be sent to the server to be stabilized, resulting in the image and servers provided.
 
-![Screenshot 2025-10-11 145503]([Screenshot 2025-10-11 145503.png](https://github.com/Asmart2022/temperature-stabilization-assignment-Asmart/blob/main/Screenshot%202025-10-11%20145503.png))
-
-![Screenshot 2025-10-11 145512](Screenshot 2025-10-11 145512.png)
-
-![Screenshot 2025-10-11 145521](Screenshot 2025-10-11 145521.png)
-
-![Screenshot 2025-10-11 145532](Screenshot 2025-10-11 145532.png)
-
-![Screenshot 2025-10-11 145544](Screenshot 2025-10-11 145544.png)
+![Screenshot 2025-10-11 160616](Screenshot 2025-10-11 160616.jpg)
 
 
 ### Data serialization and book on network programming
