@@ -83,6 +83,16 @@ Describe the execution of your program in the repository's `README.md` file. Her
 
 Paste the URL of your repository in the Canvas input box for this assignment. 
 
+### Submission
+For this assignment, a server and clients communicate with each other to receive, process information in the server, and send it back to the client. The client first sets the input to be sent to the server, the server then checks for stabilization, and then sends it back to the client to be sent to the server to be stabilized, resulting in the image and servers provided.
+
+![server](Screenshot 2025-10-11 145503.png)
+![client1](Screenshot 2025-10-11 145512.png)
+![client2](Screenshot 2025-10-11 145521.png)
+![client3](Screenshot 2025-10-11 145532.png)
+![client4](Screenshot 2025-10-11 145544.png)
+
+
 ### Data serialization and book on network programming
 
 This assignment is about using sockets and network communication with multiple processes. The assignment asks you to implement a basic client-server program of a temperature-stabilization system.
