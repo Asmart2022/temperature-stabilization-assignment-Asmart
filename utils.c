@@ -14,7 +14,7 @@ struct msg prepare_message(int i_Index, float i_Temperature)
 
     message.Index = i_Index; 
     message.T = i_Temperature; 
-
+    message.Done = done; 
     return message;
 }
 
